@@ -1,0 +1,12 @@
+@prefix api:  <http://api.com#> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+
+api:Joao a api:Person .
+api:Joao dbo:birthPlace <http://dbpedia.org/page/Brazil> .
+api:Joao dbo:deathCause <http://dbpedia.org/page/Murder> .
+ 
+api:Maria a api:Person .
+api:Maria dbo:birthPlace <http://dbpedia.org/page/SS> .
+ 
+
+
